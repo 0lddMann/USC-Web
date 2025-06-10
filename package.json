@@ -1,9 +1,9 @@
 
 {
-  "name": "elegant-dashboard",
+  "name": "USC-Web",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_USERNAME.github.io/elegant-dashboard",
+  "homepage": "https://OlddMann.github.io/USC-Web",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
